@@ -16,7 +16,6 @@ I'm a passionate developer who loves creating innovative solutions and contribut
 - 🌱 I'm constantly learning new technologies
 - 👯 I'm looking to collaborate on open-source projects
 - 💬 Ask me about anything tech-related
-- 📫 How to reach me: [Your Email]
 - ⚡ Fun fact: I love to code!
 
 ## 🛠️ Tech Stack
